@@ -10,6 +10,15 @@
 #     hours: y 
 #   location: address
 #   location_url: https://www.openstreetmap.org/?mlat={{lat}}&mlon={{lon}}&zoom=16 # https://www.latlong.net/
+- title: Linux and Open-Source Meetup - a UCL Education Conference Bonus Session
+  organiser: ARC / DigiEd
+  url: TBC
+  summary: Got something open-sourcy to share? Or just open-source curious? Come along, listen and share your tools and stories! 16.30-17.30 community talks; 17.30-19.00 April LUG meetup.
+  date: 2026-04-15
+  time: "16:30"
+  duration:
+    hours: 2.5
+  location: IOE, 20 Bedford Way - Room C3.09
 - title: Linux Install Party
   organiser: ARC / DigiEd
   url: https://pretix.eu/ARC/linux-install-party-2511
